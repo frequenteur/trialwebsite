@@ -1,0 +1,162 @@
+html{
+  /* background-color: purple; */
+}
+
+body{
+  margin: 2.5vw;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background-color: black;}
+
+
+h1{
+  font-size: 42px;}
+
+p{
+  font-size: 20px;
+  max-width: 800px;}
+
+
+
+
+
+.photosection{
+  position: relative;
+  height: 105vw;
+  /* border-style: solid; */
+}
+
+.buffer{
+  position: relative;
+  height: 50vh;
+  /* border-style: solid; */
+}
+
+.photosection2{
+  position: relative;
+  height: 68vw;
+  /* border-style: solid; */
+}
+
+
+.photosection3{
+  position: relative;
+  height: 68vw;
+  /* border-style: solid; */
+}
+
+.photosection4{
+  position:relative;
+  height:100vw;
+  /* border-style: solid; */
+
+}
+
+.photosection5{
+  position:relative;
+  height:69.375vw;
+  /* border-style: solid; */
+}
+
+.photosection6{
+  position:relative;
+  height:100vw;
+}
+
+#screen{
+  position: absolute;
+  top:0px;
+  right:0px;
+  width: 70vw;
+}
+
+#hat{
+  position: absolute;
+  right:45vw;
+  bottom:35%;
+  width:50vw;
+}
+
+#bleu{
+  width:50vw;
+  padding-bottom:1vw;
+}
+
+#wanderers{
+  width:50vw;
+}
+
+#care{
+  position: absolute;
+  right:20vw;
+  width:75vw;
+}
+
+#shroud{
+  position: absolute;
+  bottom:0px;
+  right:0px;
+  width:50vw;
+}
+
+
+#ahole{
+  position: absolute;
+  width:28vw;
+}
+
+#stickinthemud{
+  position:absolute;
+  width:28vw;
+  bottom:29vw;
+  right:33.5vw;
+}
+
+#which{
+  position:absolute;
+  width:28vw;
+  bottom:0px;
+  right:0px;
+}
+
+#liberty{
+  width:46.25vw;
+}
+
+#insideout{
+  position:absolute;
+  width: 46.25vw;
+  top:0px;
+  right:0px;
+}
+
+#paste{
+  position:absolute;
+  width: 110vw;
+  left:-5vw;
+  top:-45vw;
+  z-index: -1000;
+
+}
+
+#rotational{
+  position:absolute;
+  width:100vw;
+  /* padding-top:2.5vw; */
+  left:0px;
+  top:0px;
+}
+
+#xx{
+  position:absolute;
+  width:35vw;
+  z-index:1000;
+  left:6vw;
+}
+
+#fineday{
+  position:absolute;
+  width:50vw;
+  bottom:12.5vw;
+  right:22.5vw;
+}
